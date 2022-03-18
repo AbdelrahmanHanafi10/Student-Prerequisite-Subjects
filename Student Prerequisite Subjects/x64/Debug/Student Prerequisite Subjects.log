@@ -1,0 +1,5 @@
+﻿  student.cpp
+C:\Users\Abdelrahman Rashad\Desktop\My projects\Student Prerequisite Subjects\Student Prerequisite Subjects\student.cpp(36,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdelrahman Rashad\Desktop\My projects\Student Prerequisite Subjects\Student Prerequisite Subjects\student.cpp(39,56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdelrahman Rashad\Desktop\My projects\Student Prerequisite Subjects\Student Prerequisite Subjects\student.cpp(123,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Student Prerequisite Subjects.vcxproj -> C:\Users\Abdelrahman Rashad\Desktop\My projects\Student Prerequisite Subjects\x64\Debug\Student Prerequisite Subjects.exe
